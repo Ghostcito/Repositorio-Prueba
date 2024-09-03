@@ -8,6 +8,9 @@ namespace Practica.Models
     public class Docente
     {
         public string nombre{get;set;}
+
         public byte edad {get;set;}
+
+        public string titulo;
     }
 }
