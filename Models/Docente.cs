@@ -12,5 +12,8 @@ namespace Practica.Models
         public byte edad {get;set;}
 
         public string titulo;
+
+        public string descripcion;
     }
+
 }
