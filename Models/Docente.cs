@@ -9,5 +9,8 @@ namespace Practica.Models
     {
         public string nombre{get;set;}
         public byte edad {get;set;}
+
+        public string ESP;
+        
     }
 }
