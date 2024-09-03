@@ -10,6 +10,6 @@ namespace Practica.Models
         public string nombre {get;set;}
         public string apellido {get;set;}
 
-        public int edad {get;set;}
+        public int edadModificada {get;set;}
     }
 }
